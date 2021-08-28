@@ -7,7 +7,7 @@ In this case I am trying to clone the web from the famous Netflix movie streamin
 ## Tech Stack:
 Frontend: TailwindCSS, React.js, GraphQl, Apollo Client
 
-Backend: Node.js, Express.js, MongoDB, GraphQl, Apollo Server
+Backend: Node.js, Express.js, MongoDB, GraphQl, Apollo Server, Microservices
 
 ## Preview:
 
