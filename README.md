@@ -6,5 +6,6 @@ In this case I am trying to clone the web from the famous Netflix movie streamin
 
 #### Tech Stack:
 Frontend: TailwindCSS, Reacj.js, Apollo Client
+
 Backend: Node.js, Express.jd, MongoDB, Apollo Server
 
