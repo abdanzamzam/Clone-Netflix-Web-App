@@ -9,3 +9,8 @@ Frontend: TailwindCSS, React.js, GraphQl, Apollo Client
 
 Backend: Node.js, Express.js, MongoDB, GraphQl, Apollo Server
 
+## Preview:
+1. Home page
+
+[Home page](https://github.com/abdanzamzam/Clone-Netflix-Web-App/blob/development/preview/Screenshot%20(1872).png)
+
