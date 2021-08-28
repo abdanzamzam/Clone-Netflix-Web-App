@@ -1,0 +1,109 @@
+[{
+  "_id": {
+    "$oid": "611aac8f70279053e6b640f6"
+  },
+  "title": "Raya and the Last Dragon (2021)",
+  "overview": "Long ago, in the fantasy world of Kumandra, humans and dragons lived together in harmony. But when an evil force threatened the land, the dragons sacrificed themselves to save humanity. Now, 500 years later, that same evil has returned and it’s up to a lone warrior, Raya, to track down the legendary last dragon to restore the fractured land and its divided people.",
+  "poster_path": "https://image.tmdb.org/t/p/w185/lPsD10PP4rgUGiGR4CCXA6iY0QQ.jpg",
+  "popularity": 5,
+  "taqs": [
+    "Action",
+    "Adventure",
+    "Animation",
+    "Drama",
+    "Family",
+    "Fantasy"
+  ]
+},{
+  "_id": {
+    "$oid": "611aada670279053e6b640f7"
+  },
+  "title": "Abducted (2018)",
+  "overview": "After 7 year old Eden is kidnapped during an home invasion, single father Dane Hunte takes matters into his own hands, while Detective Fini, leading the investigation, unravels the mystery surrounding the unusual crime.",
+  "poster_path": "https://image.tmdb.org/t/p/w185/7gO1UDcMQStMTCoun2a1I7Mjzcw.jpg",
+  "popularity": 4,
+  "taqs": [
+    "Action",
+    "Drama",
+    "Crime"
+  ]
+},{
+  "_id": {
+    "$oid": "611aae5270279053e6b640f8"
+  },
+  "title": "Sponge on the Run (2020)",
+  "overview": "After SpongeBob’s beloved pet snail Gary is snail-napped, he and Patrick embark on an epic adventure to The Lost City of Atlantic City to bring Gary home.",
+  "poster_path": "https://image.tmdb.org/t/p/w185/jlJ8nDhMhCYJuzOw3f52CP1W8MW.jpg",
+  "popularity": 3,
+  "taqs": [
+    "Adventure",
+    "Animation",
+    "Comedy",
+    "Family",
+    "Fantasy"
+  ]
+},{
+  "_id": {
+    "$oid": "611af67f70279053e6b640f9"
+  },
+  "title": "Mulan (2020)",
+  "overview": "When the Emperor of China issues a decree that one man per family must serve in the Imperial Chinese Army to defend the country from Huns, Hua Mulan, the eldest daughter of an honored warrior, steps in to take the place of her ailing father. She is spirited, determined and quick on her feet. Disguised as a man by the name of Hua Jun, she is tested every step of the way and must harness her innermost strength and embrace her true potential.",
+  "poster_path": "https://image.tmdb.org/t/p/w185/aKx1ARwG55zZ0GpRvU2WrGrCG9o.jpg",
+  "popularity": 5,
+  "taqs": [
+    "Adventure",
+    "Drama",
+    "War"
+  ]
+},{
+  "_id": {
+    "$oid": "611c4bf437b13e500b9b4a4f"
+  },
+  "title": "Mortal Kombat (2021)",
+  "overview": "Washed-up MMA fighter Cole Young, unaware of his heritage, and hunted by Emperor Shang Tsung’s best warrior, Sub-Zero, seeks out and trains with Earth’s greatest champions as he prepares to stand against the enemies of Outworld in a high stakes battle for the universe.",
+  "poster_path": "https://image.tmdb.org/t/p/w185/8yhtzsbBExY8mUct2GOk4LDDuGH.jpg",
+  "popularity": 4,
+  "taqs": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ]
+},{
+  "_id": {
+    "$oid": "611c556637b13e500b9b4a53"
+  },
+  "title": "Jungle Cruise (2021)",
+  "overview": "Disney’s live-action adaptation of its iconic theme park ride.",
+  "poster_path": "https://image.tmdb.org/t/p/w185/bEFFj0KKtOIYbydhcxJSDq0hzg7.jpg",
+  "popularity": 3,
+  "taqs": [
+    "Adventure",
+    "Family",
+    "Fantasy"
+  ]
+},{
+  "_id": {
+    "$oid": "611c55e737b13e500b9b4a54"
+  },
+  "title": "The Tomorrow War (2021)",
+  "overview": "An ordinary man is recruited by time travellers from 30 years in the future to fight in a war against deadly aliens.  The Tomorrow War (2021)The Tomorrow War (2021)",
+  "poster_path": "https://image.tmdb.org/t/p/w185/lj9R6heQZ56MXGVOavm5Kwk09WY.jpg",
+  "popularity": 5,
+  "taqs": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+  ]
+},{
+  "_id": {
+    "$oid": "611c565137b13e500b9b4a55"
+  },
+  "title": "Wrath of Man (2021)",
+  "overview": "A cold and mysterious new security guard for a Los Angeles cash truck company surprises his co-workers when he unleashes precision skills during a heist. The crew is left wondering who he is and where he came from. Soon, the marksman’s ultimate motive becomes clear as he takes dramatic and irrevocable steps to settle a score.",
+  "poster_path": "https://image.tmdb.org/t/p/w185/YxopfHpsCV1oF8CZaL4M3Eodqa.jpg",
+  "popularity": 5,
+  "taqs": [
+    "Action",
+    "Crime"
+  ]
+}]

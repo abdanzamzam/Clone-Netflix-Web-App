@@ -1,0 +1,52 @@
+[{
+  "_id": {
+    "$oid": "611af827345298696015abd2"
+  },
+  "title": "Start-Up (2020)",
+  "overview": "Needing to make $90k to open her own business, Seo Dal Mi drops out of a university and takes up part-time work. She dreams of becoming someone like Steve Jobs. Nam Do San is the founder of Samsan Tech. He is excellent with mathematics. He started Samsan Tech two years ago, but the company is not doing well. Somehow, Nam Do San becomes Seo Dal Mi’s first love. They cheer each others start and growth.",
+  "poster_path": "https://image.tmdb.org/t/p/w185/hxJQ3A2wtreuWDnVBbzzXI3YlOE.jpg",
+  "popularity": 5,
+  "taqs": [
+    "Comedy",
+    "Drama",
+    "Drama Korea"
+  ]
+},{
+  "_id": {
+    "$oid": "611af8b4345298696015abd3"
+  },
+  "title": "The Penthouse (2020)",
+  "overview": "A woman puts everything on the line to achieve her goal of being able to move into a luxury penthouse in the Gangnam District. In the process, she gradually finds herself turning into a monster.",
+  "poster_path": "https://image.tmdb.org/t/p/w185/33WzWRlmxjpW00zOGin6qrx6iqU.jpg",
+  "popularity": 4,
+  "taqs": [
+    "Drama",
+    "Drama Korea"
+  ]
+},{
+  "_id": {
+    "$oid": "611af949345298696015abd4"
+  },
+  "title": "WandaVision (2021)",
+  "overview": "Wanda Maximoff and Vision—two super-powered beings living idealized suburban lives—begin to suspect that everything is not as it seems.",
+  "poster_path": "https://image.tmdb.org/t/p/w185/glKDfE6btIRcVB5zrjspRIs4r52.jpg",
+  "popularity": 3,
+  "taqs": [
+    "Action & Adventure",
+    "Comedy",
+    "Drama",
+    "Mystery",
+    "Sci-Fi & Fantasy"
+  ]
+},{
+  "_id": {
+    "$oid": "611af996345298696015abd5"
+  },
+  "title": "The Queen’s Gambit (2020)",
+  "overview": "In a Kentucky orphanage in the 1950s, a young girl discovers an astonishing talent for chess while struggling with addiction.",
+  "poster_path": "https://image.tmdb.org/t/p/w185/zU0htwkhNvBQdVSIKB9s6hgVeFK.jpg",
+  "popularity": 5,
+  "taqs": [
+    "Drama"
+  ]
+}]

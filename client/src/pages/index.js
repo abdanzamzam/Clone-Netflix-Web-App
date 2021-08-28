@@ -1,0 +1,12 @@
+export { default as Home } from "./Home";
+export { default as DetailMovie } from "./DetailMovie";
+export { default as DetailTvseris } from "./DetailTvseris";
+export { default as Movies } from "./Movies";
+export { default as Tvseries } from "./Tvseries";
+export { default as Favorites } from "./Favorites";
+export { default as Dashboard } from "./Dashboard";
+export { default as DashMovies } from "./DashMovies";
+export { default as DashTvseries } from "./DashTvseries";
+export { default as AddMovie } from "./AddMovie";
+export { default as EditMovie } from "./EditMovie";
+export { default as EditSeris } from "./EditSeris";
