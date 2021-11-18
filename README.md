@@ -1,4 +1,4 @@
-# Clone Netflix - Web app
+# Clone Netflix - Web App
 
 Clone Netflix Web App
 
